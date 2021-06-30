@@ -2,7 +2,7 @@
 
 ![Moore Sandpile](https://github.com/mlundine/AbelianSandpile/blob/main/moore.png)
 
-![sandpile video](https://github.com/mlundine/AbelianSandpile/blob/main/sandpile.mp4)
+[sandpile video](https://drive.google.com/file/d/1bnxOMElHwGi6ramC5k3wvtxc-wGISrZm/view?usp=sharing)
 
 [Nice explanation of sandpiles here](https://www.youtube.com/watch?v=1MtEUErz7Gg)
 
