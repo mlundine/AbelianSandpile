@@ -2,7 +2,7 @@
 
 ![Moore Sandpile](https://github.com/mlundine/AbelianSandpile/blob/main/moore.png)
 
-![Moore Sandpile video](https://drive.google.com/file/d/1bnxOMElHwGi6ramC5k3wvtxc-wGISrZm/view?usp=sharing)
+![sandpile video](https://github.com/mlundine/AbelianSandpile/blob/main/sandpile.mp4)
 
 Two functions to create sandpiles (rule1 and rule2):
 
