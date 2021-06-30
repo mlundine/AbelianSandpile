@@ -4,7 +4,7 @@
 
 ![sandpile video](https://github.com/mlundine/AbelianSandpile/blob/main/sandpile.mp4)
 
-![Nice explanation of sandpiles here](https://www.youtube.com/watch?v=1MtEUErz7Gg)
+[Nice explanation of sandpiles here](https://www.youtube.com/watch?v=1MtEUErz7Gg)
 
 Two functions to create sandpiles (rule1 and rule2):
 
