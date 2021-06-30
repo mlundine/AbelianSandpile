@@ -32,6 +32,13 @@ pile is the integer height of the pile created at the center of the grid.
 neighbor is the type of neighborhood to implement for each cell ('Moore' for eight neighbors, 'Von Neumann' for four neighbors')
 
 
+# dependencies
+
+Python>=3.7
+
+numpy
+
+matplotlib
 
 
 
