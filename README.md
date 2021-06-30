@@ -2,6 +2,8 @@
 
 ![Moore Sandpile](https://github.com/mlundine/AbelianSandpile/blob/main/moore.png)
 
+![Von Neumann Sandpile](https://github.com/mlundine/AbelianSandpile/blob/main/vonneumann.png)
+
 [sandpile video](https://drive.google.com/file/d/1bnxOMElHwGi6ramC5k3wvtxc-wGISrZm/view?usp=sharing)
 
 [Nice explanation of sandpiles here](https://www.youtube.com/watch?v=1MtEUErz7Gg)
