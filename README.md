@@ -4,7 +4,7 @@
 
 Two functions to create sandpiles (rule1 and rule2):
 
-#rule1
+# rule1
 
 rule1(low, high, maxHeight, dim)
 
@@ -17,7 +17,7 @@ maxHeight is the integer maximum height of a cell.
 dim is the integer width/height of the grid.
 
 
-#rule2
+# rule2
 
 rule2(maxHeight, dim, pile, neighbor)
 
